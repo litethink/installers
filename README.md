@@ -1,2 +1,2 @@
 # ssrmu2612
-这个项目只用于研究网络技术和查阅学术资料信息,禁止用于其他非法用途.
+Save for each count time.
