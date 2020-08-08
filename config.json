@@ -1,0 +1,15 @@
+{
+    "server": "66.42.51.251",
+    "local_address": "127.0.0.1",
+    "local_port": 1080,
+    "timeout": 300,
+    "workers": 1,
+    "server_port": 11246,
+    "password": "UMOhSB",
+    "method": "rc4-md5",
+    "obfs": "http_simple",
+    "obfs_param": "d1908241.microsoft.com",
+    "protocol": "auth_aes128_md5",
+    "protocol_param": "241:Pnxtl6"
+}
+                         
